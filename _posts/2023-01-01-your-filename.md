@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## The Great Dane and the Chihuahua
 ### A Doggy Analogy for TCP Window Scaling
